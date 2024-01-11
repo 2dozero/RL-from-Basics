@@ -1,5 +1,4 @@
 ## RL from basics
----
 
 ### Ch5. MDP를 모를 때 밸류 평가하기 
 - "Ch5.ipynb" 
